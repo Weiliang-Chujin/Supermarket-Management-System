@@ -1,0 +1,282 @@
+{
+	"data": [
+		{
+			"id": 0,
+			"ip": "66.183.254.66",
+			"address": "绵阳",
+			"status": 0,
+			"starttime": 1556092463,
+			"name": "明方",
+			"endtime": "",
+			"grade": "超级管理员"
+		}, {
+			"id": 1,
+			"ip": "66.183.254.66",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1555092463,
+			"name": "明方",
+			"endtime": 1555192463,
+			"grade": "超级管理员"
+		}, {
+			"id": 2,
+			"ip": "66.183.254.66",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1554092463,
+			"name": "明方",
+			"endtime": 1554096463,
+			"grade": "超级管理员"
+		}, {
+			"id": 3,
+			"ip": "192.168.0.223",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1554082463,
+			"name": "明方",
+			"endtime": 1554072463,
+			"grade": "超级管理员"
+		}, {
+			"id": 4,
+			"ip": "42.168.6.56",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1554042463,
+			"name": "花海",
+			"endtime": 1554052463,
+			"grade": "普通管理员"
+		}, {
+			"id": 5,
+			"ip": "42.168.6.56",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1554032463,
+			"name": "花海",
+			"endtime": 1554032963,
+			"grade": "普通管理员"
+		}, {
+			"id": 6,
+			"ip": "42.168.6.56",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1554002463,
+			"name": "花海",
+			"endtime": 1553992463,
+			"grade": "普通管理员"
+		}, {
+			"id": 7,
+			"ip": "42.168.6.56",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1553952463,
+			"name": "飞羽",
+			"endtime": 1553972463,
+			"grade": "普通管理员"
+		}, {
+			"id": 8,
+			"ip": "42.168.6.56",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1553892463,
+			"name": "飞羽",
+			"endtime": 1553922463,
+			"grade": "普通管理员"
+		}, {
+			"id": 9,
+			"ip": "42.168.6.56",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1553702463,
+			"name": "飞羽",
+			"endtime": 1553792463 ,
+			"grade": "普通管理员"
+		}
+		, {
+			"id": 10,
+			"ip": "48.168.6.56",
+			"address": "绵阳",
+			"status": 1,
+			"starttime": 1553092463,
+			"name": "飞羽",
+			"endtime": 1553162463,
+			"grade": "普通管理员"
+		}
+	],
+	"user": [
+		{
+			"id": 0,
+			"ip": "66.183.254.66",
+			"address": "绵阳",
+			"status": 0,
+			"starttime": 1556092463,
+			"name": "明方",
+			"endtime":"",
+			"grade": 3,
+			"sex":"男",
+			"age":28,
+			"Avatar":"",
+			"Phone":"18923456789",
+			"mailbox":"1915668836@qq.com",
+			"content":"注意安全操作",
+			"department":"管理部",
+			"position":"经理",
+			"password":123456789
+		}
+	],"grade":[
+	{
+		"id":1,
+		"name":"店长"			
+	},{
+		"id":2,
+		"name":"管理员"			
+	}],"administrator":[
+	{
+		    "id": 0,
+			"ip": "48.168.6.56",
+			"address": "绵阳",
+			"status": 0,
+			"statushut": 1,
+			"starttime": 1539211963,
+			"name": "惊鸿",
+			"registeredtime":1519111963,
+			"endtime":"",
+			"grade": 1,
+			"sex":1,
+			"age":28,
+			"Avatar":"",
+			"Phone":"18923456789",
+			"mailbox":"1915668836@qq.com",
+			"content":"注意安全操作",
+			"department":"技术部",
+			"position":"经理",
+			"password":123456789
+		
+	},{
+		    "id": 1,
+			"ip": "48.168.6.56",
+			"address": "绵阳",
+			"status": 0,
+			"statushut": 1,
+			"starttime": 1539211963,
+			"name": "明方",
+			"registeredtime":1536111963,
+			"endtime":"",
+			"grade": 2,
+			"sex":1,
+			"age":18,
+			"Avatar":"",
+			"Phone":"18923456789",
+			"mailbox":"1915668836@qq.com",
+			"content":"注意安全操作",
+			"department":"管理部",
+			"position":"经理",
+			"password":123456789
+		
+	},{
+		    "id": 2,
+			"ip": "48.168.6.56",
+			"address": "绵阳",
+			"status": 0,
+			"statushut": 1,
+			"starttime": 1539211963,
+			"name": "飞羽",
+			"registeredtime":1519234963,
+			"endtime":"",
+			"grade": 2,
+			"sex":1,
+			"age":28,
+			"Avatar":"",
+			"Phone":"18923456789",
+			"mailbox":"1915668836@qq.com",
+			"content":"注意安全操作",
+			"department":"管理部",
+			"position":"经理",
+			"password":123456789
+		
+	},{
+		    "id": 3,
+			"ip": "48.168.6.56",
+			"address": "绵阳",
+			"status": 0,
+			"statushut": 1,
+			"starttime": 1539211963,
+			"name": "花海",
+			"registeredtime":1519234963,
+			"endtime":"",
+			"grade": 2,
+			"sex":1,
+			"age":28,
+			"Avatar":"",
+			"Phone":"18923456789",
+			"mailbox":"1915668836@qq.com",
+			"content":"注意安全操作",
+			"department":"技术部",
+			"position":"技术",
+			"password":123456789
+		
+	},{
+		    "id": 4,
+			"ip": "48.168.6.56",
+			"address": "绵阳",
+			"status": 0,
+			"statushut": 1,
+			"starttime": 1539211963,
+			"name": "雪舞",
+			"registeredtime":1519234963,
+			"endtime":"",
+			"grade": 2,
+			"sex":1,
+			"age":28,
+			"Avatar":"",
+			"Phone":"18923456789",
+			"mailbox":"1915668836@qq.com",
+			"content":"注意安全操作",
+			"department":"技术部",
+			"position":"技术",
+			"password":123456789
+		
+	},{
+		    "id": 5,
+			"ip": "48.168.6.56",
+			"address": "绵阳",
+			"status": 0,
+			"statushut": 1,
+			"starttime": 1539611963,
+			"name": "云烟",
+			"registeredtime":1549234963,
+			"endtime":"",
+			"grade": 2,
+			"sex":1,
+			"age":28,
+			"Avatar":"",
+			"Phone":"18923456789",
+			"mailbox":"1915668836@qq.com",
+			"content":"注意安全操作",
+			"department":"技术部",
+			"position":"技术",
+			"password":123456789
+		
+	},{
+		    "id": 6,
+			"ip": "48.168.6.56",
+			"address": "绵阳",
+			"status": 1,
+			"statushut": 0,
+			"starttime": 1545511963,
+			"name": "紫月",
+			"registeredtime":1515534963,
+			"endtime":"",
+			"grade": 1,
+			"sex":1,
+			"age":28,
+			"Avatar":"",
+			"Phone":"18923456789",
+			"mailbox":"1915668836@qq.com",
+			"content":"注意安全操作",
+			"department":"技术部",
+			"position":"技术",
+			"password":123456789
+		
+	}
+	]
+}
